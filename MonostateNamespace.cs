@@ -10,6 +10,12 @@ namespace MonostateNamespace {
 
             //不同对象，同一行为
             Console.WriteLine("getX = {0}", getX);
+            /*
+                setX:2
+                getX:2
+                getX = 2
+             */
+
         }
     }
 
